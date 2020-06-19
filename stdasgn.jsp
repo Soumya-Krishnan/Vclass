@@ -32,11 +32,11 @@
     <body id="bg">
         <div class="header">Assignments </div>
    <div class="w3-bar w3-black">
-  <a href="smp.jsp" class="w3-bar-item w3-button">Home</a>
-  <a href="tchrquiz.jsp" class="w3-bar-item w3-button">Quiz</a>
+  <a href="stdasgn.jsp" class="w3-bar-item w3-button">Home</a>
+  <a href="quiz.jsp" class="w3-bar-item w3-button">Quiz</a>
   <a href="assignment.jsp" class="w3-bar-item w3-button">Assignment</a>
   <a href="main.jsp" class="w3-bar-item w3-button" style="float:right">Logout</a>
-  <a href="smp.jsp" class="w3-bar-item w3-button" style="float:right">Back</a>
+  <a href="course.jsp" class="w3-bar-item w3-button" style="float:right">Back</a>
 </div>
            <div class="w3-sidebar w3-light-grey w3-bar-block" style="width:25%">
   <h3 class="w3-bar-item"><% String a=session.getAttribute("username").toString();
