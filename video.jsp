@@ -115,7 +115,7 @@ body {
 <div class="navbar">
   <a href="course.jsp" class="active">HOME</a>
   <a href="quiz.jsp">QUIZ</a>
-  <a href="#">ASSIGNMENT</a>
+  <a href="stdasgn.jsp">ASSIGNMENT</a>
 
   <a href="logout.jsp" class="right">LOGOUT</a>
 </div>
