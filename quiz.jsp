@@ -346,5 +346,5 @@ form.percentage.value = scoreper + "%";
 form.mark.value=score;
 }
 </script>
-<a href="video.jsp">Back</a>
+<a href="course.jsp">Back</a>
 </html>
